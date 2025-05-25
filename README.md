@@ -16,3 +16,4 @@ Visualized trends to support early-stage detection
 Highlighted anomalies and outliers for clinical attention
 Provided insights that could aid in risk stratification
 This project demonstrates my ability to transform raw clinical data into meaningful visual stories using Tableau and provides a practical example of how data can support healthcare outcomes.
+Tableau public- https://public.tableau.com/app/profile/rani.pukkella/vizzes
